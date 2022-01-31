@@ -1,0 +1,42 @@
+C:\Users\shajs\Documents\Modules\ADOdotNET\AdvWorks\AdvWorkBL\bin\Debug\AdvWorkBL.dll
+C:\Users\shajs\Documents\Modules\ADOdotNET\AdvWorks\AdvWorkBL\bin\Debug\AdvWorkBL.pdb
+C:\Users\shajs\Documents\Modules\ADOdotNET\AdvWorks\AdvWorkBL\bin\Debug\AdvWorksDAL.dll
+C:\Users\shajs\Documents\Modules\ADOdotNET\AdvWorks\AdvWorkBL\bin\Debug\AdvWorksDAL.pdb
+C:\Users\shajs\Documents\Modules\ADOdotNET\AdvWorks\AdvWorkBL\obj\Debug\AdvWorksBL.csproj.AssemblyReference.cache
+C:\Users\shajs\Documents\Modules\ADOdotNET\AdvWorks\AdvWorkBL\obj\Debug\AdvWorksBL.csproj.CoreCompileInputs.cache
+C:\Users\shajs\Documents\Modules\ADOdotNET\AdvWorks\AdvWorkBL\obj\Debug\AdvWorksBL.csproj.CopyComplete
+C:\Users\shajs\Documents\Modules\ADOdotNET\AdvWorks\AdvWorkBL\obj\Debug\AdvWorkBL.dll
+C:\Users\shajs\Documents\Modules\ADOdotNET\AdvWorks\AdvWorkBL\obj\Debug\AdvWorkBL.pdb
+C:\Users\shajs\Documents\Modules\ADOdotNET\AdvWorks\AdvWorkBL\bin\Debug\AdvWorksDTO.dll
+C:\Users\shajs\Documents\Modules\ADOdotNET\AdvWorks\AdvWorkBL\bin\Debug\AdvWorksDTO.pdb
+C:\Users\shajs\Documents\Modules\ADOdotNET\AdvWorks\AdvWorkBL\bin\Debug\EntityFramework.dll
+C:\Users\shajs\Documents\Modules\ADOdotNET\AdvWorks\AdvWorkBL\bin\Debug\AdvWorksDAL.dll.config
+C:\Users\shajs\Documents\Modules\ADOdotNET\AdvWorks\AdvWorkBL\bin\Debug\EntityFramework.xml
+E:\ASPDotNET\Acivity4\DSLASPNETWEBAPI-master\AdvWorkBL\bin\Debug\AdvWorkBL.dll
+E:\ASPDotNET\Acivity4\DSLASPNETWEBAPI-master\AdvWorkBL\bin\Debug\AdvWorkBL.pdb
+E:\ASPDotNET\Acivity4\DSLASPNETWEBAPI-master\AdvWorkBL\bin\Debug\AdvWorksDAL.dll
+E:\ASPDotNET\Acivity4\DSLASPNETWEBAPI-master\AdvWorkBL\bin\Debug\AdvWorksDTO.dll
+E:\ASPDotNET\Acivity4\DSLASPNETWEBAPI-master\AdvWorkBL\bin\Debug\EntityFramework.dll
+E:\ASPDotNET\Acivity4\DSLASPNETWEBAPI-master\AdvWorkBL\bin\Debug\AdvWorksDAL.pdb
+E:\ASPDotNET\Acivity4\DSLASPNETWEBAPI-master\AdvWorkBL\bin\Debug\AdvWorksDAL.dll.config
+E:\ASPDotNET\Acivity4\DSLASPNETWEBAPI-master\AdvWorkBL\bin\Debug\AdvWorksDTO.pdb
+E:\ASPDotNET\Acivity4\DSLASPNETWEBAPI-master\AdvWorkBL\bin\Debug\EntityFramework.xml
+E:\ASPDotNET\Acivity4\DSLASPNETWEBAPI-master\AdvWorkBL\obj\Debug\AdvWorksBL.csproj.AssemblyReference.cache
+E:\ASPDotNET\Acivity4\DSLASPNETWEBAPI-master\AdvWorkBL\obj\Debug\AdvWorksBL.csproj.CoreCompileInputs.cache
+E:\ASPDotNET\Acivity4\DSLASPNETWEBAPI-master\AdvWorkBL\obj\Debug\AdvWorksBL.csproj.CopyComplete
+E:\ASPDotNET\Acivity4\DSLASPNETWEBAPI-master\AdvWorkBL\obj\Debug\AdvWorkBL.dll
+E:\ASPDotNET\Acivity4\DSLASPNETWEBAPI-master\AdvWorkBL\obj\Debug\AdvWorkBL.pdb
+D:\office\ASP.NET\Fetch Product\AdvWorkBL\bin\Debug\AdvWorkBL.dll
+D:\office\ASP.NET\Fetch Product\AdvWorkBL\bin\Debug\AdvWorkBL.pdb
+D:\office\ASP.NET\Fetch Product\AdvWorkBL\bin\Debug\AdvWorksDAL.dll
+D:\office\ASP.NET\Fetch Product\AdvWorkBL\bin\Debug\AdvWorksDTO.dll
+D:\office\ASP.NET\Fetch Product\AdvWorkBL\bin\Debug\EntityFramework.dll
+D:\office\ASP.NET\Fetch Product\AdvWorkBL\bin\Debug\AdvWorksDAL.pdb
+D:\office\ASP.NET\Fetch Product\AdvWorkBL\bin\Debug\AdvWorksDAL.dll.config
+D:\office\ASP.NET\Fetch Product\AdvWorkBL\bin\Debug\AdvWorksDTO.pdb
+D:\office\ASP.NET\Fetch Product\AdvWorkBL\bin\Debug\EntityFramework.xml
+D:\office\ASP.NET\Fetch Product\AdvWorkBL\obj\Debug\AdvWorksBL.csproj.AssemblyReference.cache
+D:\office\ASP.NET\Fetch Product\AdvWorkBL\obj\Debug\AdvWorksBL.csproj.CoreCompileInputs.cache
+D:\office\ASP.NET\Fetch Product\AdvWorkBL\obj\Debug\AdvWorksBL.csproj.CopyComplete
+D:\office\ASP.NET\Fetch Product\AdvWorkBL\obj\Debug\AdvWorkBL.dll
+D:\office\ASP.NET\Fetch Product\AdvWorkBL\obj\Debug\AdvWorkBL.pdb
